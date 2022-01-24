@@ -1,8 +1,8 @@
 const { Client, MessageEmbed } = require("discord.js");
 const { Notification, ipcMain } = require("electron");
 
-const TOKEN = "ODMwMTM2NTQ3NzU5NzUxMjA5.YHCS6A.cz-zH6mbhxBrqrnbhQjt_KZoCFU";
-const CHANNELID = "844267252186087444";
+//**const TOKEN = [Insert new token here];
+//**const CHANNELID = [Insert channel id here];
 const drinkMessageID = [];
 const emojiToTrack = '☕'
 
